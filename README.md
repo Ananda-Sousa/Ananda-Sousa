@@ -16,7 +16,7 @@ Já trabalhei com diagnóstico e manutenção de equipamentos e com automação 
 
 ## Projetos
 
-### [Organizador de Downloads](https://github.com/Ananda-Sousa/organizador-de-downloads)
+### [Organizador de Downloads](https://github.com/Ananda-Sousa/organizador-downloads)
 
 Script em Bash que organiza automaticamente os arquivos da pasta Downloads em subpastas por extensão, no Linux.
 
